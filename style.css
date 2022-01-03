@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #a5f3a8;
+}
+
+/* #projek {
+    background-color: #a5f3a8;
+} */
+
+#keahlian {
+    background-color: #a5f3a8;
+}
+
+#kontak {
+    background-color: #a5f3a8;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+section {
+    padding-top: 4rem;
+}
